@@ -1,0 +1,23 @@
+$background-dark: #60a599;
+$headshot-height: 200px;
+
+body{
+    padding: 250px 0px 0px 0px;
+    z-index: 0;
+}
+
+.row-content {
+    margin-bottom: 20px;
+}
+
+.navbar-dark {
+    background-color: $background-dark;
+}
+
+.icon-white {
+    color: white;
+}
+
+.headshot {
+    height: $headshot-height;
+}

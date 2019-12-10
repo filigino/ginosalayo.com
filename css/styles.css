@@ -1,0 +1,15 @@
+body {
+  padding: 250px 0px 0px 0px;
+  z-index: 0; }
+
+.row-content {
+  margin-bottom: 20px; }
+
+.navbar-dark {
+  background-color: #60a599; }
+
+.icon-white {
+  color: white; }
+
+.headshot {
+  height: 200px; }
