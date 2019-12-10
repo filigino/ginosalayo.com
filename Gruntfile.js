@@ -55,6 +55,15 @@ module.exports = function(grunt) {
 					src: ['fonts/*.*'],
 					dest: 'dist'
 				}]
+			},
+			pdf: {
+				files: [{
+					expand: true,
+					dot: true,
+					cwd: './',
+					src: ['*.pdf'],
+					dest: 'dist'
+				}]
 			}
 		},
 		clean: {
