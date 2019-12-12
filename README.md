@@ -1,4 +1,4 @@
-# ginosalayo.com
+# ginosalayo.com-bootstrap
 
 Source code for [ginosalayo.com](https://ginosalayo.com)
 
