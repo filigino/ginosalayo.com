@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/filigino/ginosalayo.com.git"
+    "url": "git+https://github.com/filigino/ginosalayo.com-bootstrap.git"
   },
   "author": "Gino Salayo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/filigino/ginosalayo.com/issues"
+    "url": "https://github.com/filigino/ginosalayo.com-bootstrap/issues"
   },
-  "homepage": "https://github.com/filigino/ginosalayo.com#readme",
+  "homepage": "https://github.com/filigino/ginosalayo.com-bootstrap#readme",
   "dependencies": {
     "bootstrap": "^4.4.1",
     "font-awesome": "^4.7.0",
