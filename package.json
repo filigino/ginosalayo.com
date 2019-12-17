@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/filigino/ginosalayo.com-bootstrap/issues"
   },
-  "homepage": "https://github.com/filigino/ginosalayo.com-bootstrap#readme",
+  "homepage": "https://ginosalayo.com",
   "dependencies": {
     "bootstrap": "^4.4.1",
     "font-awesome": "^4.7.0",
