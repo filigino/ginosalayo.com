@@ -1,3 +1,5 @@
+# **Not live since React version is live (see [filigino/ginosalayo.com-react](https://github.com/filigino/ginosalayo.com-react))**
+
 # ginosalayo.com-bootstrap
 
 Source code for [ginosalayo.com](https://ginosalayo.com)
