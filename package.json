@@ -20,8 +20,11 @@
   "dependencies": {
     "bootstrap": "^4.4.1",
     "font-awesome": "^4.7.0",
-    "jquery": "^3.4.1",
-    "popper.js": "^1.16.0"
+    "jquery": "^3.5.1",
+    "kind-of": "^6.0.3",
+    "minimist": "^1.2.5",
+    "popper.js": "^1.16.0",
+    "websocket-extensions": "^0.1.4"
   },
   "devDependencies": {
     "grunt": "^1.0.4",
@@ -38,7 +41,7 @@
     "grunt-sass": "^3.1.0",
     "grunt-usemin": "^3.1.1",
     "jit-grunt": "^0.10.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.14.1",
     "time-grunt": "^2.0.0"
   }
 }
